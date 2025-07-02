@@ -1,6 +1,10 @@
 # ShopHub - A Modern E-Commerce Platform 🛍️
 
-ShopHub is a feature-rich e-commerce front-end built with **Next.js 15** and the **App Router**. It demonstrates a complete user flow from Browse products, searching and filtering, to user authentication, adding items to a persistent cart, and completing a checkout process.
+**View the Project on GitHub:** [https://github.com/itsDevJokers/shophub](https://github.com/itsDevJokers/shophub)
+
+**Link to access the app:** [https://shophub-f18r.vercel.app/](https://shophub-f18r.vercel.app/)
+
+ShopHub is a feature-rich e-commerce front-end built with **Next.js 15** and the **App Router**. It demonstrates a complete user flow from browsing products, searching and filtering, to user authentication, adding items to a persistent cart, and completing a checkout process.
 
 This project was built to showcase modern web development practices, including server components, client-side state management with context, and secure authentication flows.
 
@@ -57,7 +61,7 @@ To get a local copy up and running, follow these simple steps.
 
     ```bash
     git clone [https://github.com/itsDevJokers/shophub.git](https://github.com/itsDevJokers/shophub.git)
-    cd your-repo-name
+    cd shophub
     ```
 
 2.  **Install NPM packages:**
