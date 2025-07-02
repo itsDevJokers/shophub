@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
    images: {
     domains: ['fakestoreapi.com'],
   },
+
+
 };
 
 export default nextConfig;
